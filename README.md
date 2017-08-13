@@ -8,15 +8,16 @@ stravduro is a different way of grouping and filtering strava segments to encour
 ## Getting started
   ### The stack:
   
-  Mobile: Ionic 2 (3.7.0)
-  Web: Angular (4.1.3) 
-  API/ Backend: WebAPI/MSSQL (.NET CORE CURRENT)
+  # Mobile: Ionic 2 (3.7.0)
+  # Web: Angular (4.1.3) 
+  # API/ Backend: WebAPI/MSSQL (.NET CORE CURRENT)
   
   ### Other requirements
     Node (6.10.2)
     NPM (5.3.0)
     Angular CLI  (1.0.6)  
     
-      #### Setting up Ionic:
-
-      #### Setting up Angular CLI
+    Setting up Ionic:
+      
+      
+    Setting up Angular CLI
